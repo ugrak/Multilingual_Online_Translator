@@ -14,6 +14,7 @@ The project was created to quickly translate unfamiliar words. The program works
 11. Romanian
 12. Russian
 13. Turkish
+
 To translate from one language to all available, enter "all" as the second parameter.
 
 In addition to the usual launch, the program can work with argv from the command line.
